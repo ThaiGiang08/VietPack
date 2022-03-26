@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "v1.0.0",
+    "name": "VietPack By ThaiGiang",
+    "uuid": "2307a804-1a5a-71a9-4261-9873ddcea23f",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 17, 30 ]
+  },
+  "modules": [
+    {
+      "description": "newbie dev",
+      "type": "resources",
+      "uuid": "2380e48a-aa67-b18a-1172-23a57bd3f42e",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "none",
+      "name": "none\nFont: (có thể tùy chỉnh)\nĐặt gói font khác phía trên pack này để sử dụng font của riêng bạn.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "unicode",
+      "name": "unicode\nFont: Unicode Remastered!\n Small Text, default8.png remade by ThaiGiang",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "mojangles_smooth",
+      "name": "mojangles_smooth\nFont: Minecraft Seven (Smooth)\nCredits: @fromgate (Twitter), remade & smoothed by ThaiGiang",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "mojangles",
+      "name": "mojangles [Default]\nFont: Minecraft Seven\nCredits: @fromgate (Twitter), remade by ThaiGiang" ,
+      "memory_tier": 1
+    }
+  ]
+}
